@@ -1,0 +1,17 @@
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Kuppe_Roman_PRI117_lb6.exe.config
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Kuppe_Roman_PRI117_lb6.exe
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Kuppe_Roman_PRI117_lb6.pdb
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Tao.FreeGlut.dll
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Tao.OpenGl.dll
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Tao.Platform.Windows.dll
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Tao.FreeGlut.xml
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Tao.OpenGl.xml
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\bin\Debug\Tao.Platform.Windows.xml
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\obj\Debug\Kuppe_Roman_PRI117_lb6.csprojAssemblyReference.cache
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\obj\Debug\Kuppe_Roman_PRI117_lb6.Form1.resources
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\obj\Debug\Kuppe_Roman_PRI117_lb6.Properties.Resources.resources
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\obj\Debug\Kuppe_Roman_PRI117_lb6.csproj.GenerateResource.cache
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\obj\Debug\Kuppe_Roman_PRI117_lb6.csproj.CoreCompileInputs.cache
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\obj\Debug\Kuppe_Roman_PRI117_lb6.csproj.CopyComplete
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\obj\Debug\Kuppe_Roman_PRI117_lb6.exe
+D:\Users\Roman\Учёба\4K7S\ПКГ\Kuppe_PRI117_lb6\Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6\obj\Debug\Kuppe_Roman_PRI117_lb6.pdb

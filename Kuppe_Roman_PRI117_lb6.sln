@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuppe_Roman_PRI117_lb6", "Kuppe_Roman_PRI117_lb6\Kuppe_Roman_PRI117_lb6.csproj", "{6B8BFF49-FBBB-4EE1-BA8F-F4744D44AED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8BFF49-FBBB-4EE1-BA8F-F4744D44AED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8BFF49-FBBB-4EE1-BA8F-F4744D44AED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8BFF49-FBBB-4EE1-BA8F-F4744D44AED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8BFF49-FBBB-4EE1-BA8F-F4744D44AED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D16FA1F-7AE7-4DEE-88A5-EB4DF6AF9C0B}
+	EndGlobalSection
+EndGlobal
